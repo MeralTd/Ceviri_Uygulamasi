@@ -12,5 +12,5 @@
 # Projeyi Çalıştırmak İçin
 - git clone https://github.com/MeralTd/Ceviri_Uygulamasi.git
 - npm install
-- react-native run-android
+- npx react-native run-android
 
